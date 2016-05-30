@@ -76,6 +76,8 @@ All of the templates and digital work that can be found on http://www.os-templat
 
 If credit links and/or copyright information are/is intentionally removed from our digital work, legal action will be taken against those doing so.
 
+
 Please respect our work, a lot of time has been invested in the work that can be found in the site.
 
 Removing credit links from templates can and will result in legal action. It isn't hard to find out where our templates are being used and who is using them.
+test command "git diff"
